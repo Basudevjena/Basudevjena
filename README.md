@@ -1,4 +1,4 @@
-I am a passionate DevOps Engineer with 4.8 years of experience in automating, optimizing, and scaling infrastructure, CI/CD pipelines, and cloud solutions. My expertise lies in bridging the gap between development and operations, ensuring smooth and efficient deployments.
+I am a passionate DevOps Engineer with experience in automating, optimizing, and scaling infrastructure, CI/CD pipelines, and cloud solutions. My expertise lies in bridging the gap between development and operations, ensuring smooth and efficient deployments.
 🔧 Skills: CI/CD, Automation, Infrastructure as Code (IaC), Cloud Computing (AWS, Azure), Docker, Kubernetes, Monitoring & Logging(Prometheus & garafana), Scripting (Bash, Groovy), Git, Jenkins, Terraform
 🛠️ Tech Stack
 ⚙️ Tools & Technologies
