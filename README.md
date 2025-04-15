@@ -1,8 +1,7 @@
 I am a passionate DevOps Engineer with experience in automating, optimizing, and scaling infrastructure, CI/CD pipelines, and cloud solutions. My expertise lies in bridging the gap between development and operations, ensuring smooth and efficient deployments.
-🔧 Skills: CI/CD, Automation, Infrastructure as Code (IaC), Cloud Computing (AWS, Azure), Docker, Kubernetes, Monitoring & Logging(Prometheus & garafana), Scripting (Bash, Groovy), Git, Jenkins, Terraform
-🛠️ Tech Stack
+🔧 Skills: CI/CD, Automation, Infrastructure as Code (IaC), Cloud Computing (AWS), Docker, Kubernetes, Monitoring & Logging(Prometheus & garafana), Scripting (Bash, Groovy), Git, Jenkins, Terraform
 ⚙️ Tools & Technologies
-Cloud Providers: AWS, Azure, 
+Cloud Providers: AWS 
 Containers: Docker, Kubernetes, Helm
 CI/CD: Jenkins, GitLab CI, GitHub Actions
 IaC: Terraform
@@ -11,4 +10,4 @@ Version Control: Git, GitHub, GitLab
 Scripting: Bash Scripting
 Security: SonarQube, OWASP-ZAP
 Image Scan: Trivy
-Artifactory: Nexus, Jfrog
+Artifactory: Nexus
